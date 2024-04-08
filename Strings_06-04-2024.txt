@@ -1,0 +1,43 @@
+1.In Java, which class is used to represent a sequence of characters as a string?
+a) String
+b) StringBuilder
+c) StringSequence
+d) StringArray
+
+Answer: a
+
+2.String in Java is a?
+a) class 
+b) object
+c) variable
+d) character array
+
+Answer:a
+
+3.which of these method of String class is used to obtain character at specified index?
+a) char()
+b) charat()
+c) Charat()
+d) charAt()
+
+Answer:d
+
+4.Which of the following is true about Java strings?
+a) Strings are mutable.
+b) Strings can contain only letters.
+c) Strings can have a null value.
+d) Strings are implemented as arrays of characters.
+
+Answer: d
+
+5.Which of the following methods is used to replace all occurrences of a specified character in a string in Java?
+a) replace()
+b) replaceAll()
+c) replaceChar()
+d) replaceAllOccurrences()
+
+Answer: b
+
+
+
+
